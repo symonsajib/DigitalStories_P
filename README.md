@@ -1,4 +1,3 @@
-# Understanding the different aspect of digital stories
 
 This dataset (test & train) contains over 10000 movies and a variety of metadata obtained from The Movie Database (TMDB). Movies are labeled with id. Data points include cast, crew, plot keywords, budget, posters, release dates, languages, production companies, and countries.
 
