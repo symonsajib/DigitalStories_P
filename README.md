@@ -15,3 +15,7 @@ This repo aims to answer some specific questions by exploratory data analysis:
 5) How release time affects the success of the movie?
 6) How other language compare with english? Does being multi-language help?
 7) Why production companies care about tagline and creating homepage?
+
+
+“Cinema is the ultimate pervert art. It doesn't give you what you desire - it tells you how to desire.”
+― Slavoj Žižek
