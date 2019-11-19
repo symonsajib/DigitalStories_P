@@ -1,6 +1,8 @@
-# Understanding-Movie-Business
+# Business of the digital stories
 
-I will answer following questions with my exploratory data analysis : 
+This dataset (test & train) contains the more than 10000 movies and a variety of metadata obtained from The Movie Database (TMDB). Movies are labeled with id. Data points include cast, crew, plot keywords, budget, posters, release dates, languages, production companies, and countries.
+
+This repo aim to answer specific questiosn questions: 
 
 1) Does series do better business? Which are the best series in terms of business?
 2) Can low budget movie be a success? Which are top 10 low budget movie was a success? Why? 
